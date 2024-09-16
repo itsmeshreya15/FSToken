@@ -1,4 +1,4 @@
-Here’s the complete README with the updated "Example Usage" section, including Solidity code snippets for interacting with the contract:
+
 
 ---
 
@@ -118,4 +118,5 @@ Contributions are welcome! To contribute:
 3. **Submit a Pull Request**: Propose your changes for review and potential inclusion.
 
 ---
+## Video Explanation
 
